@@ -1,0 +1,73 @@
+.image{
+    width: 716px;
+    height: 932px;
+    padding-top: 40px;
+}
+.text01{
+    width: 500px;
+    height: 153px;
+    font-family: Avenir;
+    font-weight: 800;
+    font: Heavy;
+    font-size: 64px;
+    line-height: 80px;
+    letter-spacing: 0%;
+    color: #252525;
+}
+.text02{
+    width: 500px;
+    height: 144px;
+    font-family: Avenir;
+    font-weight: 400;
+    font: Roman;
+    font-size: 26px;
+    line-height: 130%;
+    letter-spacing: 0%;
+    color: #515151;
+}
+
+.button{
+    width: 157px;
+    height: 50px;
+    border-radius: 16px;
+    gap: 10px;
+    background-color: #252525;
+    font-family: Avenir;
+    font-weight: 400;
+    font: Roman;
+    font-size: 18px;
+    line-height: 18px;
+    letter-spacing: 0%;
+    color: #FFFFFF;
+}
+.num1{
+    width: 368px;
+    height: 55px;
+    font-family: Avenir;
+    font-weight: 800;
+    font: Heavy;
+    font-size: 40px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: #c9c9c9;
+    
+
+}
+.text03{
+    width: 500px;
+    height: 99px;
+    font-family: Avenir;
+    font-weight: 400;
+    font: Roman;
+    font-size: 24px;
+    line-height: 130%;
+    letter-spacing: 0%;
+    color: #515151;
+}
+.four{
+      display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content:center;
+    gap: 250px;
+}

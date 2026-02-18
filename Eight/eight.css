@@ -1,0 +1,83 @@
+.pattern{
+    width: 224px;
+    height: 224px;
+    position: absolute;
+    z-index: 1;
+}
+.pattern2{
+    width: 224px;
+    height: 224px;
+    margin-top: 545px;
+    margin-left: 440px;
+    position: absolute;
+    z-index: 1;
+}
+.circle{
+    width: 656px;
+    height: 656px;
+    position: absolute;
+    z-index: 0;
+}
+.man{
+    width: 618.33px;
+    height: 795.5px;
+position: absolute;
+z-index: 2;
+object-fit: contain;
+padding-top: 50px;
+
+
+}
+.t1{
+    width: 487px;
+    height: 416px;
+    font-family: Work Sans;
+    font-weight: 700;
+    font: Bold;
+    font-size: 88px;
+    line-height: 104px;
+    letter-spacing: 0%;
+    color: #FFFFFF;
+    margin: 0;
+}
+.t2{
+    width: 487px;
+    height: 96px;
+    font-family: Work Sans;
+    font-weight: 300;
+    font: lighter;
+    font-size: 24px;
+    line-height: 32px;
+    letter-spacing: 0%;
+    color: #FFFFFF;
+}
+.button{
+    width: 231px;
+    height: 82px;
+    border-radius: 36px;
+    gap: 10px;
+    background-color: #E5B94B;
+    font-family: Work Sans;
+    font-weight: 500;
+    font: Medium;
+    font-size: 32px;
+    line-height: 18px;
+    letter-spacing: 0%;
+    color: #080808;
+    margin-top: 20px;
+    
+    
+    
+}
+.text{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: start;
+    padding-left: 55%;
+    margin: 0;
+    gap: 32px;
+    
+    
+    
+}

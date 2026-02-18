@@ -1,0 +1,122 @@
+.t1{
+    width: 637px;
+    height: 176px;
+    font-family: Avenir;
+    font-weight: 800;
+    font: Heavy;
+    font-size: 72px;
+    line-height: 88px;
+    letter-spacing: 0%;
+    color: #252525;
+    margin: 0;
+    
+    
+}
+.t2{
+    width: 586px;
+    height: 108px;
+    font: Avenir;
+    font-weight: 400;
+    font: Roman;
+    font-size: 26px;
+    line-height: 130%;
+    letter-spacing: 0%;
+    color: #515151;
+    margin: 0;
+    padding-top: 30px;
+}
+.btn{
+    width: 182px;
+    height: 66px;
+    border-radius: 36px;
+    background-color: #252525;
+    font-family: Poppins;
+    font-weight: 400;
+    font: Regular;
+    font-size: 24px;
+    line-height: 18px;
+    letter-spacing: 0%;
+    color: #FFFFFF;
+    margin-top: 30px;
+}
+.i1{
+    width: 322.6px;
+    height: 384.6px;
+    margin-top: 40px;
+    border-top-left-radius: 200px;
+    border-top-right-radius: 200px;
+    
+
+}
+.i2{
+     width: 322.6px;
+    height: 384.6px;
+    position: absolute;
+    margin-top: 300px;
+    margin-left: 320px;
+    border-top-left-radius: 200px;
+    border-top-right-radius: 200px;   
+}
+.image{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+   padding-left: 650px;
+   
+}
+.cloud{
+    width: 24px;
+    height: 16px;
+    margin: 0;
+    padding-top: 30px;
+}
+.title{
+    width: 316px;
+    height: 44px;
+    font-family: Avenir;
+    font-weight: 800;
+    font: Heavy;
+    font-size: 32px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: #FFFFFFCC;
+    margin: 0;
+    padding-top: 10px;
+}
+.title1{
+    width: 316px;
+    height: 66px;
+    font-family: Avenir;
+    font-weight: 400;
+    font: Book;
+    font-size: 24px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: #FFFFFF;
+}
+.bottom{
+    background-color: #252525;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-top: 180px;
+    width: 92%;
+    border-radius: 40px;
+    margin-left: 50px;
+    
+    
+}
+ 
+    
+    
+     
+    
+
+    
+    
+
+
+    
+

@@ -1,0 +1,50 @@
+.text01{
+    width: 674px;
+    height: 80px;
+    font-family: Avenir;
+    font-weight: 800;
+    font: Heavy;
+    font-size: 88px;
+    line-height: 80px;
+    letter-spacing: 0%;
+    color: #252525;
+    margin: 0;
+    padding-right: 150px;
+}
+.text02{
+    width: 540px;
+    height: 108px;
+    font-size: 26px;
+    font-family: Avenir;
+    font-weight: 400;
+    font: Roman;
+    letter-spacing: 0%;
+    line-height: 130%;
+    color: #515151;
+}
+.button{
+    width: 157px;
+    height: 50px;
+    border-radius: 16px;
+    gap: 10px;
+    background-color: #252525;
+    font-family: Avenir;
+    font-weight: 400;
+    font: Roman;
+    font-size: 18px;
+    line-height: 18px;
+    letter-spacing: 0%;
+    color: #FFFFFF;
+}
+.text{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding-top: 60px;
+}
+.image{
+    width: 1360px;
+    height: 732px;
+    padding: 100px 30px 20px 50px;
+}

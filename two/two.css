@@ -1,0 +1,73 @@
+.text01{
+    width: 444px;
+    height: 231px;
+    font-family: Avenir;
+    font-weight: 800;
+    font: Heavy;
+    font-size: 56px;
+    line-height: 80px;
+    letter-spacing: 0%;
+    color: #252525;
+
+}
+.text02{
+    width: 386px;
+    height: 144px;
+    font-family: Avenir;
+    font-weight: 400;
+    font: Roman;
+    font-size: 26px;
+    line-height: 130%;
+    letter-spacing: 0%;
+    color: #515151;
+    
+}
+.button{
+    width: 157px;
+    height: 50px;
+    border-radius: 16px;
+    gap: 10px;
+    background-color: #252525;
+    font-family: Avenir;
+    font-weight: 400;
+    font: Roman;
+    font-size: 18px;
+    line-height: 18px;
+    letter-spacing: 0%;
+    color: #FFFFFF;
+}
+.num1{
+    width: 368px;
+    height: 55px;
+    font-family: Avenir;
+    font-weight: 800;
+    font: Heavy;
+    font-size: 40px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: #c9c9c9;
+    margin: 0;
+
+}
+.bottom1{
+    width: 412px;
+    height: 379.159423828125px;
+    border-radius: 16px;
+}
+.bottom{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+    padding-top: 50px;
+
+}
+.bottom2{
+     display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+
+}
+
+

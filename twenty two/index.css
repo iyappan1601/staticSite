@@ -1,0 +1,96 @@
+.t1{
+    width: 405px;
+    height: 318px;
+    font-family: Lato;
+    font-weight: 800;
+    font-style: ExtraBold;
+    font-size: 88px;
+    line-height: 110%;
+    letter-spacing: 0%;
+    color: #FFFFFF;
+    margin: 0;
+    padding-left: 104px;
+    padding-top: 133px;
+}
+.t2{
+    width: 542px;
+    height: 96px;
+    font-family: Lato;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 24px;
+    line-height: 32px;
+    letter-spacing: 0%;
+    color: #FFFFFF;
+    margin: 0;
+    padding-top: 40px;
+    padding-left: 104px;
+}
+.btn{
+    font-family: Lato;
+    font-weight: 500;
+    font-style: Medium;
+    font-size: 28px;
+    line-height: 18px;
+    letter-spacing: 0%;
+    color: #01062D;
+    width: 190px;
+    height: 66px;
+    border-radius: 16px;
+    gap: 10px;
+    background-color: #FFFFFF;
+    border: 0;
+    margin-top: 40px;
+    margin-left: 104px;
+}
+.i1{
+    position: absolute;
+  top: 757px;
+  left: 64px;
+}
+.i2{
+    position: absolute;
+    left: 646px;
+    bottom: 400px;
+}
+.i3{
+    position: absolute;
+    left: 1030px;
+    bottom: 400px;
+}
+.num{
+    width: 38px;
+    height: 32px;
+    font-family: Lato;
+    font-weight: 900;
+    font-style: Black;
+    font-size: 32px;
+    line-height: 32px;
+    letter-spacing: 0%;
+    color: #FFFFFF;
+}
+.ntext{
+    width: 456px;
+    height: 64px;
+    font-family: Lato;
+    font-weight: 300;
+    font-style: Light;
+    font-size: 24px;
+    line-height: 32px;
+    letter-spacing: 0%;
+    color: #FFFFFF;
+
+}
+.numbers{
+    position: absolute;
+    left: 878px;
+    top: 560px;
+}
+.bottom{
+     position: absolute;
+     top: 1113px;
+     left: 64px;
+     display: flex;
+     flex-direction: row;
+     gap: 24px;
+}
